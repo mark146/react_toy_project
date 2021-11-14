@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2e7b86f0-9273-4e2a-a904-97f76abfd4ff" name="node">
+        <fileTransfer rootFolder="/usr/local/GraphQL-Server" accessType="SFTP" host="3.37.98.196" port="22" sshConfigId="5abe62fc-8548-49c5-b2a6-cdbb666d8f7c" sshConfig="master@3.37.98.196:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
